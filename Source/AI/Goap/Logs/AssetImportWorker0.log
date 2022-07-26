@@ -1,0 +1,155 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.7f1 (c53830e277f1) revision 12924976'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1165; Version 2009; 64bit' Language: 'en' Physical Memory: 16333 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Documents/MyGamesProjects/Goap
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52972
+Successfully changed project path to: D:/Documents/MyGamesProjects/Goap
+D:/Documents/MyGamesProjects/Goap
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 19.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.7f1 (c53830e277f1)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Documents/MyGamesProjects/Goap/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f08)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   27.21.14.6677
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56708
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001631 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 20.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.910 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000351 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.652 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1133 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.6 MB.
+System memory in use after: 57.6 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1577.
+Total: 1.461500 ms (FindLiveObjects: 0.140700 ms CreateObjectMapping: 0.024300 ms MarkObjects: 1.226900 ms  DeleteObjects: 0.068700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/GOAP/Actions/GetTreated.cs
+  artifactKey: Guid(93282cce008864bac828ee20a338124b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GOAP/Actions/GetTreated.cs using Guid(93282cce008864bac828ee20a338124b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dbfe365e21c56839315f26ca4626259') in 0.041983 seconds
+  Import took 0.043644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.350712 seconds.
+  path: Assets/GOAP/GAgent.cs
+  artifactKey: Guid(74e8db295bb114515b2b115e81c6fe74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GOAP/GAgent.cs using Guid(74e8db295bb114515b2b115e81c6fe74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9447cd62bd417b035bd9256368705065') in 0.001271 seconds
+  Import took 0.002786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/GOAP/GAgent.cs
+  artifactKey: Guid(74e8db295bb114515b2b115e81c6fe74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GOAP/GAgent.cs using Guid(74e8db295bb114515b2b115e81c6fe74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9447cd62bd417b035bd9256368705065') in 0.001054 seconds
+  Import took 0.002318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.518638 seconds.
+  path: Assets/GOAP/GInvontry.cs
+  artifactKey: Guid(b9a259c5a09e66b439153f2f9ade3381) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GOAP/GInvontry.cs using Guid(b9a259c5a09e66b439153f2f9ade3381) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e18261f3eb6d72015c73242c6d03b326') in 0.001432 seconds
+  Import took 0.002850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.922112 seconds.
+  path: Assets/GOAP/GPlanner.cs
+  artifactKey: Guid(beb7ea54a80614924a85ecae69d2d694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GOAP/GPlanner.cs using Guid(beb7ea54a80614924a85ecae69d2d694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e72bf7dff74f755225b7f31cfd35e6c6') in 0.001264 seconds
+  Import took 0.003044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002146 seconds.
+  path: Assets/GOAP/GPlanner.cs
+  artifactKey: Guid(beb7ea54a80614924a85ecae69d2d694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GOAP/GPlanner.cs using Guid(beb7ea54a80614924a85ecae69d2d694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e72bf7dff74f755225b7f31cfd35e6c6') in 0.000968 seconds
+  Import took 0.002199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.318871 seconds.
+  path: Assets/GOAP/UpdateWorld.cs
+  artifactKey: Guid(17947176b1add5c49ba04750e2d0b43d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GOAP/UpdateWorld.cs using Guid(17947176b1add5c49ba04750e2d0b43d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd0469f9126827e7e1bc3395b963e474') in 0.001228 seconds
+  Import took 0.002624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000851 seconds.
+  path: Assets/GOAP/UpdateWorld.cs
+  artifactKey: Guid(17947176b1add5c49ba04750e2d0b43d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GOAP/UpdateWorld.cs using Guid(17947176b1add5c49ba04750e2d0b43d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd0469f9126827e7e1bc3395b963e474') in 0.001200 seconds
+  Import took 0.002620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.036207 seconds.
+  path: Assets/GOAP/WorldStates.cs
+  artifactKey: Guid(f7603b7e2116445bdbe48fae9a8243bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GOAP/WorldStates.cs using Guid(f7603b7e2116445bdbe48fae9a8243bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abd121d6f58936a2b1ecf176f0aeb4b5') in 0.001285 seconds
+  Import took 0.002872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000659 seconds.
+  path: Assets/GOAP/WorldStates.cs
+  artifactKey: Guid(f7603b7e2116445bdbe48fae9a8243bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GOAP/WorldStates.cs using Guid(f7603b7e2116445bdbe48fae9a8243bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abd121d6f58936a2b1ecf176f0aeb4b5') in 0.000966 seconds
+  Import took 0.002131 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
